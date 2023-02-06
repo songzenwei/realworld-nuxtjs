@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "/Users/songxinwei/Desktop/test/realword-nuxtjs/pages/layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "/Users/songxinwei/Desktop/test/realword-nuxtjs/pages/home",
+        "_name": "_17860e94"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "/Users/songxinwei/Desktop/test/realword-nuxtjs/pages/login",
+        "_name": "_d8cb331c"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "/Users/songxinwei/Desktop/test/realword-nuxtjs/pages/login",
+        "_name": "_d8cb331c"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "/Users/songxinwei/Desktop/test/realword-nuxtjs/pages/profile",
+        "_name": "_207d3b1c"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "/Users/songxinwei/Desktop/test/realword-nuxtjs/pages/settings",
+        "_name": "_ccaa070c"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "/Users/songxinwei/Desktop/test/realword-nuxtjs/pages/editor",
+        "_name": "_59b2e8f8"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "/Users/songxinwei/Desktop/test/realword-nuxtjs/pages/article",
+        "_name": "_52e8b482"
+      }
+    ],
+    "_name": "_4215357e"
+  }
+]
